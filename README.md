@@ -1,5 +1,5 @@
-# Weather Tracking App
-The Weather Application is a simple application that fetches weather information for a given location and displays it to the user. 
+# [Weather Tracking Application](https://github.com/eulasi/WeatherCheck)
+The Weather App is a simple application that fetches weather information for a given location and displays it to the user. 
 - The Model is responsible for fetching and managing weather data, the View handles the user interface and interactions, and the Presenter acts as an intermediary, coordinating communication between the Model and View.
 
 ## MVP Architecture
